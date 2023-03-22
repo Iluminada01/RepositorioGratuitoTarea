@@ -1,4 +1,4 @@
-package Osorio;
+package osorio;
 
 import java.util.Scanner;
 
