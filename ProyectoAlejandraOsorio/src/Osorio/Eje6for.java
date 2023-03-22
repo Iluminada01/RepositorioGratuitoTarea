@@ -12,7 +12,7 @@ public class Eje6for {
 	        nf=leer.nextInt();
 	            // `nf` es el número total de filas
 	            
-	         
+	         System.out.println("Este es un mensaje que muestra un cambio en el main de este ejercicio");
 	            int i, j, k;
 	         
 	            // hacer para cada fila
