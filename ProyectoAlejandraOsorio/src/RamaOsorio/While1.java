@@ -4,7 +4,7 @@ package RamaOsorio;
 
 public class While1 {
   public static void main(String[] args) {
-	
+	System.out.println("abcd cambios");
         int i=360;
         
         
